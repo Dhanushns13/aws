@@ -1,0 +1,6 @@
+customhost = "dhanush.c9c6ozaegym7.ap-south-1.rds.amazonaws.com"
+customuser = "Dhanushaws"
+custompass = "Dhanushaws"
+customdb = "Dhanush"
+custombucket = "dhanushns"
+customregion = "ap-south-1"
